@@ -22,8 +22,7 @@ const index:React.FC = () => {
             </div>
             <div className="decoration-clone md:decoration-slice ...">
             <span className="decoration-clone bg-gradient-to-b from-yellow-400 to-red-500 text-transparent ...">
-              Hello<br/>
-              World
+              Wellcom
             </span>
             </div>
             <div className="flex flex-wrap">
